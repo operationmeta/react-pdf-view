@@ -1,2 +1,3 @@
 # react-pdf-view
-React Pdf View only component that is based on the react-pdf package.
+
+React Pdf viewonly component that is based on the react-pdf package.
