@@ -1,3 +1,3 @@
-import PDFViewer from "./components/PDFViewer/index.jsx";
+import PDFViewer from "./components/PDFViewer";
 
 export default PDFViewer;
