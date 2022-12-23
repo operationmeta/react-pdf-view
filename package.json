@@ -1,5 +1,5 @@
 {
-    "name": "react-pdf-view",
+    "name": "@yaredt/react-pdf-view",
     "version": "1.0.0",
     "description": "React Pdf View only component that is based on the react-pdf package.",
     "types": "./lib/cjs/types/index.d.ts",
@@ -41,6 +41,8 @@
     "devDependencies": {
         "@types/chai": "^4.3.4",
         "@types/mocha": "^10.0.1",
+        "@types/react": "^18.0.26",
+        "@types/react-pdf": "^6.2.0",
         "chai": "^4.3.7",
         "mocha": "^10.2.0",
         "ts-node": "^10.9.1"
@@ -48,5 +50,8 @@
     "dependencies": {
         "react": "^18.2.0",
         "react-pdf": "^6.2.0"
+    },
+    "publishConfig": {
+        "access": "public"
     }
 }
